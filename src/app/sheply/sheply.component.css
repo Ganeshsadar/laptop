@@ -1,0 +1,18 @@
+
+.list{
+  display: flex;
+  
+  justify-content:space-between;
+padding-top: 30px;
+margin-left: 50px;
+margin-right: 50px;
+  
+}
+.list ul{
+  display: flex;
+  gap: 20px;
+  
+}
+.list ul a{
+  list-style: none;
+}
